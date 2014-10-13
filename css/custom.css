@@ -13,10 +13,18 @@ body {
     background-attachment: fixed;
     background-size: 100%;
     height: 100%;
-    color: black;
+    color: #3B5992;
     padding-bottom: 25px;
     text-align: center; 
 
+}
+
+div {
+  color: black;
+}
+
+h1 {
+  color: #3B5992;
 }
 
 .transbox {
