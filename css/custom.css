@@ -27,6 +27,10 @@ h1 {
   color: #3B5992;
 }
 
+.green {
+  color: #849E01;
+}
+
 .transbox {
   position: relative;
   background-color: white;
